@@ -7,7 +7,7 @@
   <img src="https://media.tenor.com/YbmQHDSJvbkAAAAC/thumbs-up-hacker.gif" width="500"/>
 </div>
 
-# Tools:
+# Tech Stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80"/>&nbsp;
@@ -24,9 +24,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original-wordmark.svg" title="Vagrant" alt="Vagrant" width="100" height="100"/>&nbsp; 
   
 </div>
-
-
-<!---
-AleksandrMerkulov26/AleksandrMerkulov26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
