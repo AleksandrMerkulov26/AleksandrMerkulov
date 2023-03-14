@@ -23,5 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="80" height="80"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Vsstudio" alt="Vsstudio" width="80" height="80"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="win" alt="win" width="80" height="80"/>&nbsp; 
   
 </div>
