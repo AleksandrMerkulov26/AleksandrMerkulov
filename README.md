@@ -1,4 +1,4 @@
-- 🖐 Hi, I’m @AleksandrMerkulov26
+- 🖐 Hi, I’m @AleksandrMerkulov
 - 🧠 I’m currently learning DevOps
 - 👨‍🎓 I really like learning
 - 😊 I want to develop as a DEVOPS engineer
@@ -11,6 +11,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain-wordmark.svg" title="Debian" alt="Linux" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="BitBucket" alt="BitBucket" width="80" height="80"/>&nbsp;
