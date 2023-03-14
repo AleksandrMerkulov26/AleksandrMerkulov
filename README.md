@@ -4,7 +4,7 @@
 - 😊 I want to develop as a DEVOPS engineer
 
 <div id="header" align="center">
-  <img src="https://gfycat.com/ru/flimsyfatglowworm-sayings-expressions-thomas-middleditch" width="500"/>
+  <img src="https://thumbs.gfycat.com/FlimsyFatGlowworm-mobile.mp4" width="500"/>
 </div>
 
 # Tools:
