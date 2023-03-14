@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="BitBucket" alt="BitBucket" width="80" height="80"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/GitLab_logo_%282%29.svg" title="gitlab" alt="gitlab" width="100" height="100"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" title="gitlab" alt="gitlab" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="100" height="100"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="80" height="80"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Jira" alt="Jira" width="80" height="80"/>&nbsp;
