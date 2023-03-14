@@ -4,7 +4,7 @@
 - 😊 I want to develop as a DEVOPS engineer
 
 <div id="header" align="center">
-  <img src="https://thumbs.gfycat.com/FlimsyFatGlowworm-mobile.mp4" width="500"/>
+  <img src="https://media.tenor.com/YbmQHDSJvbkAAAAC/thumbs-up-hacker.gif" width="500"/>
 </div>
 
 # Tools:
